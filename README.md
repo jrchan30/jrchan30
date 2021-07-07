@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything!
 - 📫 How to reach me:
-    russ30 (line), @jrussellchan (instagram), jrussellchan2000@gmail.com (:email:)
+---- russ30 (line), @jrussellchan (instagram), jrussellchan2000@gmail.com (:email:)
 
