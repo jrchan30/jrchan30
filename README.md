@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Russell Chan, I'm a Frontend Developer with experiences in fullstack web development
 - 🔭 I’m currently working for Astra Graphia Information Technology
 - :muscle: I have experiences in using React.js, NuxtJS, Vue.js, & Laravel
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & NextJS
 - 💬 Ask me about anything!
 - 📫 How to reach me:
     - Line: russ30
