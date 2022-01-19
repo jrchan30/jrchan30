@@ -1,5 +1,5 @@
 [![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrchan30&show_icons=true&theme=radical&count_private=true)](https://github.com/jrchan30/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrchan30&hide=css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrchan30&hide=css,scss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrchan30&layout=compact)](https://github.com/jrchan30/github-readme-stats) -->
 ### Hi there 👋, my name is Russell Chan, I'm a Frontend Developer with experiences in fullstack web development
 - 🔭 I’m currently working for Astra Graphia Information Technology
